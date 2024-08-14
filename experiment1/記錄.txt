@@ -1,0 +1,4 @@
+說明:
+基於LRU計算zero_reuse_obj的比例
+
+cache_size:

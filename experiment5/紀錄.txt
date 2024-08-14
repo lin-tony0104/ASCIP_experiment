@@ -1,0 +1,8 @@
+LRU
+	cache_size:
+
+ASC-IP-LRU
+	c:
+	delta:
+
+==================
